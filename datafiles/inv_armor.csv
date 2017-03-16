@@ -1,0 +1,10 @@
+key,stack_size,image,sprite,name,category,defense
+string,real,real,string,string,string,real
+armor_wizard_hat,1,0,spr_inv_armor,Wizard hat,helmet,1
+armor_steel_helmet,1,1,spr_inv_armor,Steel helmet,helmet,3
+armor_lether_cuirass,1,2,spr_inv_armor,Lether cuirass,cuirass,4
+armor_dragon_cuirass,1,3,spr_inv_armor,Dragon cuirass,cuirass,9
+armor_lether_boots,1,4,spr_inv_armor,Lether boots,boots,1
+armor_steel_boots,1,5,spr_inv_armor,Steel boots,boots,3
+armor_wooden_shield,1,6,spr_inv_armor,Wooden shield,shield,5
+armor_skeleton_shield,1,7,spr_inv_armor,Skeleton shield,shield,8

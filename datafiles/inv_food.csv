@@ -1,0 +1,6 @@
+key,stack_size,image,sprite,name
+string,real,real,spr_inv_food,string
+food_carrot,64,0,spr_inv_food,carrot
+food_bread,64,1,spr_inv_food,bread
+food_cheese,64,2,spr_inv_food,cheese
+food_fish,64,3,spr_inv_food,fish
